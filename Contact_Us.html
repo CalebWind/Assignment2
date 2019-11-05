@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Home Page</title>
+
+  <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
+</head>
+
+<body>
+  <div id="row">
+    <h1><img src="assets/img/logo.jpg" alt="Mobile Review Logo" /> Mobile Review Website </h1>
+    <nav>
+      <a href="index.html">Home Page</a>
+      <div class="dropdown">
+        Products
+        <div class="dropdown-content">
+          <a href="Apple.html">Apple</a>
+          <a href="Samsung.html">Samsung</a>
+        </div>
+      </div>
+      <a>Contact Us</a>
+    </nav>
+  </div>
+
+  <div>
+    <fieldset>
+      <legend>Submit your Comments Here!</legend>
+      <form id="commentBox">
+        Name <input type="text" id="nameInput" />
+        <br>Email Address <input type="text" name="emailInput" />
+        <br>Phone Number <input type="text" name="phoneNumberInput" />
+        <br>Message <input type="text" name="messageInput" />
+        <p> </p>
+        <input type="submit" value="Submit" id="submit" />
+      </form>
+    </fieldset>
+  </div>
+  <script src="assets/js/contactScript.js"></script>
+</body>
+
+</html>

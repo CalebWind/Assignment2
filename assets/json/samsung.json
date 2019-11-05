@@ -1,0 +1,38 @@
+[
+    {
+        "itemName" : "Note 10+",
+        "brand" : "Samsung Galaxy",
+        "cost" : "$lots",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    },
+
+    {
+        "itemName" : "S10+",
+        "brand" : "Samsung Galaxy",
+        "cost" : "$less then lots",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    },
+
+    {
+        "itemName" : "A70",
+        "brand" : "Samsung Galaxy",
+        "cost" : "$some",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    },
+
+    {
+        "itemName" : "S9",
+        "brand" : "Samsung Galaxy",
+        "cost" : "$less then some",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    },
+
+    {
+        "itemName" : "S9+",
+        "brand" : "Samsung Galaxy",
+        "cost" : "$only slightly less then some",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    }
+
+    
+]

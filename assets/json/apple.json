@@ -1,0 +1,40 @@
+[
+    
+    {
+        "itemName" : "iphone5c",
+        "brand" : "apple",
+        "cost" : "$399",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    },
+
+    {
+        "itemName" : "iphone6",
+        "brand" : "apple",
+        "cost" : "$499",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    },
+
+    {
+        "itemName" : "iphone7",
+        "brand" : "apple",
+        "cost" : "$599",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    },
+
+    {
+        "itemName" : "iphone8",
+        "brand" : "apple",
+        "cost" : "$999",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    },
+
+    {
+        "itemName" : "iphone10",
+        "brand" : "apple",
+        "cost" : "$21000.99",
+        "review" : "good for a phone for kids to play with. cheap cost and semi-modern phone."
+    }
+
+    
+
+]
