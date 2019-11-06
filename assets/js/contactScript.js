@@ -1,7 +1,6 @@
 const alertUser = () => {
-  let namevalue = document.getElementById("nameInput").value;
-  window.alert("Thank you for your message " + namevalue);
+  let namevalue = $('#nameInput')[0].value;
+    window.alert("Thank you for your message " + namevalue);
 };
 
-document.getElementById("submit").addEventListener("click", alertUser);
-
+$('#submit').on("click", alertUser);
